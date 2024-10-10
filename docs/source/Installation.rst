@@ -1,4 +1,4 @@
-.. Cosmostest documentation master file, created by
+.. COSMOS documentation master file, created by
    sphinx-quickstart on Thu Sep 16 19:43:51 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -38,5 +38,5 @@ Installation
 
 .. code-block:: python
 
-   import Cosmos
+   import cosmos
    
