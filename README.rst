@@ -3,4 +3,4 @@ COSMOS tutorial
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://cosmos-tutorials.readthedocs.io/en/latest/
