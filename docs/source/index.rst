@@ -15,7 +15,7 @@ Contents
    :maxdepth: 1
    
    Installation
-   Cosmos_mouseVisualCortex_example
+   Tutorial_Simulation_MouseVisualCortex
    Tutorial_ATAC_RNA_Seq_MouseBrain
    Tutorial_DBit_Seq_MouseEmbryo
 
