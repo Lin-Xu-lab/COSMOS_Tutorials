@@ -19,7 +19,7 @@ Contents
    Tutorial_ATAC_RNA_Seq_MouseBrain
    Tutorial_DBit_Seq_MouseEmbryo
 
-.. image:: ../../Images/Fig1_new.png
+.. image:: ../../Images/workflow.png
 
 News
 ========
