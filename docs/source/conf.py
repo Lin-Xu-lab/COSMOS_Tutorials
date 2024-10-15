@@ -32,8 +32,8 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_context = {
-    'display_github': True,
-               }`
+# html_context = {
+#     'display_github': True,
+#                }`
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+# epub_show_urls = 'footnote'
