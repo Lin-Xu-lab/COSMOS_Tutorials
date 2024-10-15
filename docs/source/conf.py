@@ -30,14 +30,14 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# html_theme = 'sphinx_rtd_theme'
-# html_static_path = ['_static']
+html_theme = 'sphinx_rtd_theme'
 
-html_context = {
-"display_github": 'https://github.com/Lin-Xu-lab/COSMOS_Tutorials/', # Add 'Edit on Github' link instead of 'View page source'
-"last_updated": True,
-"commit": False,
-}
+
+# html_context = {
+# "display_github": 'https://github.com/Lin-Xu-lab/COSMOS_Tutorials/', # Add 'Edit on Github' link instead of 'View page source'
+# "last_updated": True,
+# "commit": False,
+# }
 html_show_sourcelink = True
 # -- Options for EPUB output
 # epub_show_urls = 'footnote'
