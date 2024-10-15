@@ -34,7 +34,7 @@ templates_path = ['_templates']
 # html_static_path = ['_static']
 
 html_context = {
-"display_github": https://github.com/Lin-Xu-lab/COSMOS_Tutorials/, # Add 'Edit on Github' link instead of 'View page source'
+"display_github": 'https://github.com/Lin-Xu-lab/COSMOS_Tutorials/', # Add 'Edit on Github' link instead of 'View page source'
 "last_updated": True,
 "commit": False,
 }
